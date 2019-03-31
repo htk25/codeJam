@@ -33,7 +33,7 @@ public class Solution {
                     }
                 }
                 //Greedy process to minimize damage with 1 swap at a time
-                //The 'S' with the most 'C' before it contribute the most damage, thus, always swap the last S first.
+                //The 'S' with the most 'C' before it gives the most damage, thus, always swap the last S first.
                 while(totalDamage > D && numC > 0){
 
                     if(counter[numC - 1] > 0) {
