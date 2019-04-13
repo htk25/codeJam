@@ -5,6 +5,7 @@ import java.io.*;
 
 
 //Edgy Baking(14, 29)
+//Not completed...
 public class Q3_2018_1A {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
